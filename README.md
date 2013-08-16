@@ -2,7 +2,7 @@ moodle-save-all-resources
 =========================
 
 <h1>Purpose</h1>
-This script is meant to facilitate the downloads on a Moodle Class by adding a Download All button to every Session.
+This Greasemonkey user script is meant to facilitate the downloads on a Moodle Class by adding a Download All button to every Session.
 
 <h1>Features</h1>
 <ul>
@@ -20,7 +20,7 @@ This script is meant to facilitate the downloads on a Moodle Class by adding a D
     <li>Firefox 20+</li>
 </ul>
 
-<h2><strong>Notes:</strong></h2>
+<h1>Notes:</h1>
 <ul>
     <li>When using the <code>Download all</code> link the browser may popup an alert saying <em>This site is downloading multiple files</em> which you have to <em>Allow</em> otherwise the files are not downloaded.</li>
     <li>On PDF files the some browsers asky you to <em>Keep</em> or <em>Discard</em> before actually downloading.</li>
