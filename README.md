@@ -20,8 +20,12 @@ This script is meant to facilitate the downloads on a Moodle Class by adding a D
     <li>Firefox 20+</li>
 </ul>
 
-<h2><strong>Note:</strong></h2>
-Only INCAE Moodle url was added to the @match definition, to be able to use this script in other Moodle installation you will have to add a @match tag with your installation base url.
+<h2><strong>Notes:</strong></h2>
+<ul>
+    <li>When using the <code>Download all</code> link the browser may popup an alert saying <em>This site is downloading multiple files</em> which you have to <em>Allow</em> otherwise the files are not downloaded.</li>
+    <li>On PDF files the some browsers asky you to <em>Keep</em> or <em>Discard</em> before actually downloading.</li>
+    <li>Only INCAE Moodle url was added to the @match definition, to be able to use this script in other Moodle installation you will have to add a @match tag with your installation base url.</li>
+</ul>
 
 <b>Version:<b>1.0rc1
 
